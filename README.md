@@ -7,3 +7,6 @@ http://localhost:8080/api/weather/now?city=malmo
 http://localhost:8080/api/weather/weekly?city=helsingborg
 
 http://localhost:8080/api/weather/search?city=stockholm
+
+
+Technologies Used: Java8, Spring Boot. 
